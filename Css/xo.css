@@ -1,0 +1,31 @@
+
+body{font-family: 'Droid Sans', sans-serif;}
+
+.clear-fix{clear: both}
+
+body,.board { margin:auto; text-align: center;}
+
+button {margin-bottom: 50px}
+
+.board {width:330px; height: 330px}
+
+.square{
+    width:100px;
+    height: 100px;
+    float:left;
+    border: 5px solid #333;
+    color: #f70202;
+    font-size: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
